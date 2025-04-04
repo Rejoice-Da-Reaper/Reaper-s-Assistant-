@@ -7,7 +7,7 @@ global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new settings 
-global.botname = 'ELITE-PRO-V2' //ur bot name
+global.botname = 'Reapers_Assistant' //ur bot name
 global.ownernumber = '2349118213101' //ur owner number
 global.ownername = 'Rejoice-Da-Reaper' //ur owner name
 global.websitex = "https://youtube.com/@elitepro-empire"
